@@ -32,6 +32,6 @@
 
 ## 📈 GitHub Stats
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBhagatt185&show_icons=true&theme=tokyonight)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalBhagat185&show_icons=true&theme=tokyonight)
 
 ---
