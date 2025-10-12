@@ -1,15 +1,14 @@
 # Hi ![176309783-0785949b-9127-417c-8b55-ab5a4333674e](https://github.com/user-attachments/assets/3e88d982-48c5-4def-a620-477b71b480df), I'm Vishal Bhagat
 
-# 🎓 I'm currently pursuing MCA and passionate about Full Stack Web Development & DSA  
-# 🌱 I'm currently learning: HTML, CSS, JavaScript, React, Node.js  
-#  🚀  Building: Loading.. — a LeetCode-like platform with a twist  
-# 🌾 Background: Farmer turned Developer  
-# 📫 Reach me at: VishalBhagatt185@gmail.com  
-# 🌍 Interested in opportunities in India 🇮🇳 & Usa 
- # ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💡 Motto: "If You Learn Syntax - You can Code❤️"
-# 💡 Motto: "If You Learn Logic - You can Solve Problems ❤️"
-# 💡 Motto: "If You Learn Systems - You can Build Empire❤️"
+🎓 I'm currently pursuing MCA and passionate about Full Stack Web Development & DSA  
+🌱 I'm currently learning: HTML, CSS, JavaScript, React, Node.js  
+🚀  Building: Loading.. — a LeetCode-like platform with a twist  
+🌾 Background: Farmer turned Developer  
+📫 Reach me at: VishalBhagatt185@gmail.com  
+🌍 Interested in opportunities in India 🇮🇳 & Usa.
+💡 Motto: "If You Learn Syntax - You can Code❤️"
+💡 Motto: "If You Learn Logic - You can Solve Problems ❤️"
+💡 Motto: "If You Learn Systems - You can Build Empire❤️"
 
 ![hadder](https://github.com/user-attachments/assets/d1afe066-2e0c-4eac-98a3-29b2918bec91)
 
