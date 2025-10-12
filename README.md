@@ -5,10 +5,8 @@
 🚀  Building: Loading.. — a LeetCode-like platform with a twist  
 🌾 Background: Farmer turned Developer  
 📫 Reach me at: VishalBhagatt185@gmail.com  
-🌍 Interested in opportunities in India 🇮🇳 & Usa.
-💡 Motto: "If You Learn Syntax - You can Code❤️".
-💡 Motto: "If You Learn Logic - You can Solve Problems ❤️".
-💡 Motto: "If You Learn Systems - You can Build Empire❤️"
+🌍 Interested in opportunities in India 🇮🇳 & Usa.  
+💡 Motto: "If You Learn Syntax - You can Code❤️"."If You Learn Logic - You can Solve Problems ❤️". "If You Learn Systems - You can Build Empire❤️"
 
 ![hadder](https://github.com/user-attachments/assets/d1afe066-2e0c-4eac-98a3-29b2918bec91)
 
